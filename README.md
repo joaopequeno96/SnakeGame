@@ -1,11 +1,5 @@
 ## JJ   PPPPPPPPPPPPPP
-##   JJ   PP       PP
-##     JJ   PP   PP
-##       JJ   PP
-##         JJ   PP
-##    JJ     JJ   PP 
-##  JJ         JJ   PP
-## JJJJJJJJJJJJJJ    PP
+
 
 # SnakeGame
 
