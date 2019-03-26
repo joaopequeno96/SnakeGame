@@ -29,7 +29,7 @@ What things you need to install the software and how to install them
 
 * **João Pequeno** - *Initial work - v0.1* - [joaopequeno96](https://github.com/joaopequeno96)
 
-See also the list of [contributors](https://github.com/SnakeGame/contributors) who participated in this project.
+<!--See also the list of [contributors](https://github.com/SnakeGame/contributors) who participated in this project. -->
 
 ## License
 
