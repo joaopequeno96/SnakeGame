@@ -1,9 +1,9 @@
-![alt text](https://github.com/joaopequeno96/SnakeGame/blob/master/icon.ico)
-
 # SnakeGame
 
 Welcome to my simple game on C++. 
 This is a snake game developed in C++
+
+![alt text](https://github.com/joaopequeno96/SnakeGame/blob/master/icon.ico)
 
 ## Getting Started
 
