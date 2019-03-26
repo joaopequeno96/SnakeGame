@@ -1,6 +1,16 @@
+## JJ   PPPPPPPPPPPPPP
+##   JJ   PP       PP
+##     JJ   PP   PP
+##       JJ   PP
+##         JJ   PP
+##    JJ     JJ   PP 
+##  JJ         JJ   PP
+## JJJJJJJJJJJJJJ    PP
+
 # SnakeGame
 
-Welcome to my simple game on C++. This is a snake game developed in C++
+Welcome to my simple game on C++. 
+This is a snake game developed in C++
 
 ## Getting Started
 
