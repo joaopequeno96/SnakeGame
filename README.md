@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/joaopequeno96/SnakeGame/blob/master/icon.ico)
 
 # SnakeGame
 
