@@ -23,7 +23,7 @@ What things you need to install the software and how to install them
 ## Built With
 
 * [NETBEANS](https://netbeans.org) - IDE software used
-* [C](https://en.wikipedia.org/wiki/C_(programming_language)) - Programming language used
+* [C++](https://en.wikipedia.org/wiki/C++_(programming_language)) - Programming language used
 
 ## Authors
 
