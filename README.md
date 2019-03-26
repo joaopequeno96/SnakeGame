@@ -1,7 +1,4 @@
-## JJ   PPPPPPPPPPPPPP
-##   JJ   PP       PP
-
-
+![alt text](http://url/to/img.png)
 
 # SnakeGame
 
